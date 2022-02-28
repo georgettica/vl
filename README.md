@@ -17,7 +17,7 @@ CLI tool that helps verify current status of URIs in text files
 
 # Prerequisites
 
-- Golang 1.16
+- Golang 1.17
 
 # Installing
 
